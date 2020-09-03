@@ -22,6 +22,7 @@ When clicked, will ask for user's email (to be verified by the system), if done 
 # Project Installation
  * Download the project and unzip. 
  * Next, the `code` folder must be placed into the `htdocs` folder.
+ * Set `code` folder as the current working directory and run `composer install` from the cli, this will install all required packages, also for node packages you can always run `npm install`, *i did not include them*.
  * Database (in `database` folder) must be imported into MySQL for the code to function properly, Database username and password are the default ones for Xampp.
  * To run the project, use command `php artisan serve` in the current directory with cmd and go to the server url, which will take you to the `home` page. The process after that is already explained above.
  * **Note:-** I have placed all the components pre-compiled in the code folder.
