@@ -1,4 +1,4 @@
-# Basic-Graphical-Based-Password
+# Basic-Graphical-Based-Password-Laravel
 Helps to avoid shoulder surfing and keeping the account password secure by using a Color-Wheel to enter password.
 
 # Tecnologies 
